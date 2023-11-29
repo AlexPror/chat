@@ -39,5 +39,9 @@ All I need to know in one place'], ['place'=>'London Business School',
       <a href="/pages/chat">Чат</a>
       <a href="/pages/bio">Биография</a>
     </nav>
+
+    <div>
+    small change
+    </div>
   </body>
 </html>
